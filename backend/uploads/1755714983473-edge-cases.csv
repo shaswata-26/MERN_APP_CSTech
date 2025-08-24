@@ -1,0 +1,11 @@
+FirstName,Phone,Notes
+A,1,Minimal data
+VeryLongFirstNameExample,123456789012345,Phone with extra digits
+,,Missing data
+John Doe,,Missing phone
+,1234567890,Missing name
+"FirstName,WithComma",1234567890,"Notes, with, commas"
+O'Malley,1234567890,Name with apostrophe
+Élise,1234567890,Name with special characters
+测试,1234567890,Unicode characters
+,,"Empty row"
