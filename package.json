@@ -6,7 +6,7 @@
     "install-server": "cd backend && npm install",
     "install-client": "cd frontend && npm install",
     "build-client": "cd frontend && npm run build",
-    "start-server": "cd backend && npm start"
+    "start": "cd backend && npm start"
   },
   "keywords": [],
   "author": "",
