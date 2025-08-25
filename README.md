@@ -39,6 +39,7 @@ npm or yarn package manager
 bash
 # Clone the repository
 git clone <your-repository-url>
+
 cd mern-app
 
 # Setup backend
@@ -259,3 +260,4 @@ Check the troubleshooting section above
 Review API documentation
 
 Create an issue in the repository
+
